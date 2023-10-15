@@ -1,0 +1,14 @@
+<style>
+a#link1:link, a#link1:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a#link1:hover, a#link1:active {
+  background-color: red;
+}
+</style>
