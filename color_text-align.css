@@ -1,0 +1,31 @@
+<style>
+/*p,*/ #para1, .center {
+  color: red;
+  text-align: center;
+}
+
+.center2 {
+  text-align: center;
+  color: blue;
+}
+p.center3 {
+  text-align: center;
+  color: red;
+}
+
+p.large3 {
+  font-size: 300%;
+}
+
+/** {
+  text-align: center;
+  color: blue;
+}*/
+
+/*h1, h2, p {
+  text-align: center;
+  color: red;
+}*/
+
+
+</style>
