@@ -1,0 +1,25 @@
+<style>
+a#linkx:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a#linkx:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a#linkx:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a#linkx:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
